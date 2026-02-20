@@ -2,20 +2,19 @@
 Activate Windows with this simple steps. 
 Disclaimer : This is only for learning and education purposes
 
-Steps : 
-1 : Open Command Prompt(Run as Administrator)
-2 : Enter the following commands
-  a : slmgr / ipk License_Key  (Replace License Ket with the license key based on your windows edition from the table below)
-  b : slmgr /skms kms8.msguides.com
-  c : slmgr /ato
-3 : Press Ok
-4 : Check for any errors if not it is completed
+### Steps : 
+#### 1 : Open Command Prompt(Run as Administrator)
+#### 2 : Enter the following commands
+  #### a : slmgr / ipk License_Key 
+  ###### (Replace License Key with the license key based on your windows edition from the table below)
+  #### b : slmgr /skms kms8.msguides.com
+  #### c : slmgr /ato
+#### 3 : Press Ok
+#### 4 : Check for any errors if not it is completed
 
-Note : If everything was done correctly without any issues then your windows should be activated now. 
-Check and Have fun.
-You can star mark this repository and share with your friends.
+## _Note_ : If everything was done correctly without any issues then your windows should be activated now. Check and Have fun. You can star mark this repository and share with your friends.
 
-Product Names	EditionID	Generic Volume License Key
+##### Product Names	EditionID	Generic Volume License Key #####
 Education	Education	NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 Education N	EducationN	2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 Enterprise	Enterprise	NPPR9-FWDCX-D2C8J-H872K-2YT43
